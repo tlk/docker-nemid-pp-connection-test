@@ -3,7 +3,7 @@
 
 Test network connectivity to the Nemid PP (pre production) environment.
 
-### Build the container
+### Build the docker image
 docker build -t docker-nemid-pp-connection-test .
 
 ### Test Network Connection
